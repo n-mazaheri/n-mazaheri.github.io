@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkimage_editor=self.webpackChunkimage_editor||[]).push([[21298],{21298:(l,n,e)=>{e.r(n),e.d(n,{wallet:()=>u});const u={id:"walletConnect",name:"WalletConnect",homepage:"https://walletconnect.com",app:{browser:null,ios:null,android:null,mac:null,windows:null,linux:null,chrome:null,firefox:null,safari:null,edge:null,opera:null},rdns:null,mobile:{native:null,universal:null},desktop:{native:null,universal:null}}}}]);
+//# sourceMappingURL=21298.c59c8d0a.chunk.js.map

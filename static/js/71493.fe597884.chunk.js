@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkimage_editor=self.webpackChunkimage_editor||[]).push([[71493],{71493:(l,n,e)=>{e.r(n),e.d(n,{wallet:()=>a});const a={id:"com.chain",name:"Chain",homepage:"https://chain.com",image_id:"f9f3d8da-e791-47d2-98c2-031712617e00",app:{browser:null,ios:"https://apps.apple.com/us/app/id6444779277",android:null,mac:null,windows:null,linux:null,chrome:null,firefox:null,safari:null,edge:null,opera:null},rdns:null,mobile:{native:"chainapp://",universal:null},desktop:{native:null,universal:null}}}}]);
+//# sourceMappingURL=71493.fe597884.chunk.js.map
