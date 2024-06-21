@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkimage_editor=self.webpackChunkimage_editor||[]).push([[20018],{90112:(c,a,t)=>{t.d(a,{rr:()=>o});var e=t(6219);const r="0x313ce567",n=[],i=[{type:"uint8"}];async function o(c){return(0,e.readContract)({contract:c.contract,method:[r,n,i],params:[]})}},20018:(c,a,t)=>{t.d(a,{decimals:()=>n});var e=t(6909),r=t(90112);async function n(c){return(0,e.n)((()=>(0,r.rr)(c)),{cacheKey:"".concat(c.contract.chain.id,":").concat(c.contract.address,":decimals"),cacheTime:Number.POSITIVE_INFINITY})}}}]);
+//# sourceMappingURL=20018.35486e6f.chunk.js.map
